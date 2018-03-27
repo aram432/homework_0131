@@ -23,7 +23,7 @@ The main function of this socks seems to be health tracking: superior accuracy i
 	
 I see very little reason to spend $199 for marginally better accuracy than something like pedometer. The same goes for speed and calories; there is little reason that socks have to do the job - there are plenty of smart watch, smartphone application, health wristband that does the same or better. Even if I did want such information, altitude, cadence or foot landing technique are too much of an information that need to be "interpreted" to regular audience. 
 	
-These socks are not suitable for daily use as well. We normally do not wear the socks again before washing them - I would certainly be intimidated to "regularly" wash expensive socks that comes with Bluetooth. A "dedicated mobile application that monitors and guides you through real-time audio cues while you run" is certainly not for daily use when we commute everyday. 
+These socks are not suitable for daily use as well. We normally do not wear the socks again before washing them - I would certainly be intimidated to "regularly" wash expensive socks that comes with Bluetooth. A "dedicated mobile application that monitors and guides you through real-time audio cues while you run" is not for daily use when we commute everyday. 
 	
 	
 http://store.sensoriafitness.com/sensoria-fitness-smart-socks
